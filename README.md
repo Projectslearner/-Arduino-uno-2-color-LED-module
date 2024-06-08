@@ -12,6 +12,10 @@ This project demonstrates how to control a 2-color LED module using an Arduino U
 4. **Breadboard**
 5. **Jumper Wires**
 
+### Block Diagram
+
+
+
 ### Circuit Wiring
 
 1. **LED Module:**
